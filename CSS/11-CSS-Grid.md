@@ -327,6 +327,6 @@ Controls how the total grid tracks align within a larger container when the grid
 
 ---
 
-➡️ Next: [CSS Flexbox](10-CSS-Flexbox.md)
+⬅️ Previous: [CSS Flexbox](10-CSS-Flexbox.md)
 
 ➡️ Next: [CSS Responsive Design](12-CSS-Responsive-Design.md)

@@ -333,6 +333,6 @@ Combining playback controls, fallbacks, captions, and responsive dimensions deli
 
 ## Navigation
 
-⬅️ Previous: [HTML Swmantic Elements](08-HTML-Semantic-Elements.md)
+⬅️ Previous: [HTML Semantic Elements](08-HTML-Semantic-Elements.md)
 
-➡️ Next: [HTML Attribute](10-HTML-Attribute.md)
+➡️ Next: [HTML Attributes](10-HTML-Attributes.md)

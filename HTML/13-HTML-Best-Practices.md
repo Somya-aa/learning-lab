@@ -630,6 +630,6 @@ Following these practices will make your HTML projects easier to understand and 
 
 ## Navigation
 
-⬅️ Previous: [HTML Features](12-HTML-Features.md)
+⬅️ Previous: [HTML5 Features](12-HTML5-Features.md)
 
 ➡️ Next: Coming Soon

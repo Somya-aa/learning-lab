@@ -292,6 +292,6 @@ Structuring documents with semantic tags produces accessible, SEO-friendly, and 
 
 ## Navigation
 
-⬅️ Previous: [Forms and Inputs Elements](07-Forms=and-Inputs-Elements.md)
+⬅️ Previous: [Forms and Input Elements](07-Forms-and-Input-Elements.md)
 
 ➡️ Next: [HTML Media](09-HTML-Media.md)

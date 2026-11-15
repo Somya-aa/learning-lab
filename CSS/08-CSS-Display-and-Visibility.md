@@ -312,6 +312,6 @@ The `visibility` property controls visual rendering with three primary values:
 
 ---
 
-➡️ Next: [CSS Margin Padding and Borders](07-CSS-Margin-Padding-and-Borders.md)
+⬅️ Previous: [CSS Margins, Padding and Borders](07-CSS-Margins-Padding-and-Borders.md)
 
 ➡️ Next: [CSS Positioning](09-CSS-Positioning.md)

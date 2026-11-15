@@ -281,6 +281,6 @@ Combining proper structural elements (`<thead>`, `<tbody>`, `<tfoot>`) with acce
 
 ## Navigation
 
-⬅️ Previous: [Tables](05-Tables.md)
+⬅️ Previous: [Lists](05-Lists.md)
 
-➡️ Next: [Forms and Inputs Elements](07-Forms=and-Inputs-Elements.md)
+➡️ Next: [Forms and Input Elements](07-Forms-and-Input-Elements.md)

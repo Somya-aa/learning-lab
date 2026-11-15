@@ -400,4 +400,4 @@ Using clear semantic tags, appropriate input types, explicit labels, and native 
 
 ⬅️ Previous: [Tables](06-Tables.md)
 
-➡️ Next: [HTML Swmantic Elements](08-HTML-Semantic-Elements.md)
+➡️ Next: [HTML Semantic Elements](08-HTML-Semantic-Elements.md)

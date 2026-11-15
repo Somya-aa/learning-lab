@@ -531,6 +531,6 @@ Flexbox is especially useful for navigation bars, cards, buttons, headers, foote
 
 ---
 
-➡️ Next: [CSS Positioning](09-CSS-Positioning.md)
+⬅️ Previous: [CSS Positioning](09-CSS-Positioning.md)
 
 ➡️ Next: [CSS Grid](11-CSS-Grid.md)

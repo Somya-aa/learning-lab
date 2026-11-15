@@ -582,4 +582,4 @@ Understanding selectors and specificity is essential for writing effective CSS a
 
 ⬅️ Previous: [Introduction to CSS](01-Introduction-to-CSS.md)
 
-➡️ Next: [Colors Backgrounds and Opacity](03-Colors-Background-and-Opacity.md)
+➡️ Next: [Colors, Backgrounds and Opacity](03-Colors-Backgrounds-and-Opacity.md)

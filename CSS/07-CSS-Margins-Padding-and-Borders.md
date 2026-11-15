@@ -445,6 +445,6 @@ Modern CSS provides logical properties that automatically adapt according to wri
 
 ---
 
-⬅️ Previous: [CSS Units and Measurement](06-CSS-Units-and-Measurement.md)
+⬅️ Previous: [CSS Units and Measurements](06-CSS-Units-and-Measurements.md)
 
 ➡️ Next: [CSS Display and Visibility](08-CSS-Display-and-Visibility.md)

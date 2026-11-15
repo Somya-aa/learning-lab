@@ -439,4 +439,4 @@ Semantic elements make the document readable and accessible, while `<div>` and `
 
 ⬅️ Previous: [HTML Attributes](10-HTML-Attributes.md)
 
-➡️ Next: [HTML Features](12-HTML-Features.md)
+➡️ Next: [HTML5 Features](12-HTML5-Features.md)

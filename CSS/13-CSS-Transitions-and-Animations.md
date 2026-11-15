@@ -561,6 +561,6 @@ Use motion purposefully, maintain good performance, and ensure that animations d
 
 ---
 
-➡️ Previous: [CSS Responsive Design](12-CSS-Responsive-Design.md)
+⬅️ Previous: [CSS Responsive Design](12-CSS-Responsive-Design.md)
 
-➡️ Next: [CSS Pseudo Classes and Psuedo Elements](12-Pseudo-Classes-and-Psuedo-Elements.md)
+➡️ Next: [CSS Pseudo-Classes and Pseudo-Elements](14-CSS-Pseudo-Classes-and-Pseudo-Elements.md)

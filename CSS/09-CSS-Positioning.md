@@ -295,6 +295,6 @@ A classic CSS technique to perfectly center an element inside a positioned paren
 
 ---
 
-➡️ Next: [CSS Display and Visibility](08-CSS-Display-and-Visibility.md)
+⬅️ Previous: [CSS Display and Visibility](08-CSS-Display-and-Visibility.md)
 
 ➡️ Next: [CSS Flexbox](10-CSS-Flexbox.md)

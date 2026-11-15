@@ -698,6 +698,6 @@ Congratulations on completing all 15 chapters of the CSS section in your **learn
 
 ---
 
-➡️ Previous: [CSS Pseudo Classes and Psuedo Elements](12-Pseudo-Classes-and-Psuedo-Elements.md)
+⬅️ Previous: [CSS Pseudo-Classes and Pseudo-Elements](14-CSS-Pseudo-Classes-and-Pseudo-Elements.md)
 
 🏁 End of CSS Documentation

@@ -336,4 +336,4 @@ A solid grasp of this hierarchy guarantees precise, responsive, and predictable 
 
 ⬅️ Previous: [CSS Text and Fonts](04-CSS-Text-and-Fonts.md)
 
-➡️ Next: [CSS Units and Measurement](06-CSS-Units-and-Measurement.md)
+➡️ Next: [CSS Units and Measurements](06-CSS-Units-and-Measurements.md)

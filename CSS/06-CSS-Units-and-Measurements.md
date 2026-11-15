@@ -258,4 +258,4 @@ h1 {
 
 ⬅️ Previous: [CSS Box Model](05-CSS-Box-Model.md)
 
-➡️ Next: [CSS Margin Padding and Borders](07-CSS-Margin-Padding-and-Borders.md)
+➡️ Next: [CSS Margins, Padding and Borders](07-CSS-Margins-Padding-and-Borders.md)

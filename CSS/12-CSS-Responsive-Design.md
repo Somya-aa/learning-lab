@@ -500,6 +500,6 @@ A good responsive layout should adapt naturally while keeping content readable, 
 ---
 
 
-➡️ Previous: [CSS Grid](11-CSS-Grid.md)
+⬅️ Previous: [CSS Grid](11-CSS-Grid.md)
 
-➡️ Next: [CSS Transition and Design](11-CSS-Transition-and-Design.md)
+➡️ Next: [CSS Transitions and Animations](13-CSS-Transitions-and-Animations.md)

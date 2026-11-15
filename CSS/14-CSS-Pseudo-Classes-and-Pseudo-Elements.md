@@ -556,6 +556,6 @@ Avoid removing focus outlines (`outline: none;`) without providing a clear, acce
 
 ---
 
-➡️ Previous: [CSS Transition and Design](13-CSS-Transition-and-Design.md)
+⬅️ Previous: [CSS Transitions and Animations](13-CSS-Transitions-and-Animations.md)
 
-➡️ Next: [CSS Best Practices](14-CSS-Best-Practices.md)
+➡️ Next: [CSS Best Practices](15-CSS-Best-Practices.md)

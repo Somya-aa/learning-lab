@@ -55,18 +55,19 @@ After completing this HTML section, I will be able to:
 
 HTML/
 │
+├── README.md
 ├── 01-Introduction-to-HTML.md
-├── 02-HTML-Document-Structure.md
-├── 03-HTML-Elements.md
-├── 04-HTML-Headings-and-Paragraphs.md
-├── 05-HTML-Lists.md
-├── 06-HTML-Links.md
-├── 07-HTML-Images.md
-├── 08-HTML-Tables.md
-├── 09-HTML-Multimedia.md
+├── 02-HTML-Structure-and-Syntax.md
+├── 03-Headings-and-Paragraphs.md
+├── 04-Links-and-Images.md
+├── 05-Lists.md
+├── 06-Tables.md
+├── 07-Forms-and-Input-Elements.md
+├── 08-HTML-Semantic-Elements.md
+├── 09-HTML-Media.md
 ├── 10-HTML-Attributes.md
 ├── 11-HTML-Layout-and-Containers.md
-├── 12-HTML-Features.md
+├── 12-HTML5-Features.md
 └── 13-HTML-Best-Practices.md
 
 ---
